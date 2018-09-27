@@ -1,5 +1,5 @@
 # qa-end-to-end
-This project aims at helping QA people to write maintainable automated end-to-end tests for web based applications with #JavaScript, #Protractor and #Selenium
+This project aims at helping QA people to write maintainable automated end-to-end tests for web based applications with [#JavaScript](https://www.w3schools.com/js/default.asp), [#Protractor](https://www.protractortest.org) and [#Selenium](https://www.seleniumhq.org/projects/webdriver)
 
 ## Why learning how to write automated Tests?
 1. because it's cool
