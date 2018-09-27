@@ -1,7 +1,7 @@
 const { browser, element, by } = require('protractor');
 
-describe('beim besuchen der angular homepage', () => {
-  it('muss ein button existieren der "GET STARTED" heißt', () => {
+describe('when navigating to angular homepage', () => {
+  it('there should be a button called "GET STARTED"', () => {
     browser.get('https://angular.io/');
     const buttonText = element(by.css('#intro > div.homepage-container > a')).getText();
     expect(buttonText).toEqual('GET STARTED');
