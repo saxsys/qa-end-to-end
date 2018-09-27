@@ -32,7 +32,7 @@ If you are bored by now and don't want to continue then it's fine! You then shou
 
 4. ### Inside the Terminal clone this repository into your current folder
     ```sh
-    git clone https://github.com/Olddude/qa-end-to-end.git "."
+    git clone https://github.com/saxsys/qa-end-to-end.git "."
     ```
 
 5. ### Install node packages
